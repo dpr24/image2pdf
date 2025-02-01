@@ -26,7 +26,7 @@ Image2PDF is a Flutter application that allows users to convert images from thei
 
 ## Download APK
 
-[Download Latest APK](https://yourdownloadlink.com/image2pdf.apk)
+[Download Latest APK](https://github.com/dpr24/image2pdf/releases/download/image2pdf/image2pdf.apk)
 
 ## Dependencies
 The project uses the following Flutter packages:
